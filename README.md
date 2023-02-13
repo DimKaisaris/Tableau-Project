@@ -17,6 +17,6 @@ highlighting areas of success and potential for improvement.
 ## Second Page 
 Created a side by side bar chart to compare Sales and Profit for each Category.
 
-![c2](Images/c2.png) 
+![c6](Images/c6.png) 
 
 

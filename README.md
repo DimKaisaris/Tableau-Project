@@ -19,4 +19,11 @@ Created a side by side bar chart to compare Sales and Profit for each Category.
 
 ![c7](Images/c7.png) 
 
+## Third Page 
+To show the profit margin per category and subcategory,   
+created a calculated field to derive the profit margin  
+and used it to create a bar chart.
+
+![c3](Images/c3.png)
+
 

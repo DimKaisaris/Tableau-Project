@@ -48,3 +48,12 @@ experience for the viewer and allowing for a deeper understanding of the data.
 
 ![dashboard](Images/dashboard.png) 
 
+## Page  eight and nine
+
+In addition to the previously mentioned charts, a scatterplot was created to show the relationship    
+between sales and profit. To further enhance the analysis, a trend forecast was generated to predict  
+sales per month based on historical data.
+
+![c4](Images/c4.png)
+
+![c5](Images/c5.png)

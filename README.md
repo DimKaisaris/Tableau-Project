@@ -1,4 +1,5 @@
 # Tableau-Project
+## Business Intelligence Analytics
 
 ## Project overview:
 Exploring the Superstore Sales dataset using Tableau and created a dashboard to showcase key insights.  

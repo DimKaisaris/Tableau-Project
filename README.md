@@ -13,3 +13,10 @@ of data. The chart provides a clear picture of profit distribution across catego
 highlighting areas of success and potential for improvement.
 
 ![c1](Images/c1.png)
+
+## Second Page 
+Created a side by side bar chart to compare Sales and Profit for each Category.
+
+![c2](Images/c2.png) 
+
+

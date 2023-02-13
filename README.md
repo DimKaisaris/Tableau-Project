@@ -26,4 +26,14 @@ and used it to create a bar chart.
 
 ![c3](Images/c3.png)
 
+## Page four, five and six
+I created a fourth chart to visualize the Profit Margin by Geography. This chart presents   
+the data in a map view, with different colors representing the profit margins of each state.
+
+Page 5: To better understand the overall performance of the Superstore, I created a table   
+that displays key performance indicators (KPIs) such as Sales, Profit, Quantity, and Profit per Unit.
+
+Page 6: To get a better understanding of the shipping methods used by the Superstore, I created  
+a pie chart that shows the distribution of shipments across the different ship modes.
+
 

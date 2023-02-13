@@ -39,7 +39,7 @@ a pie chart that shows the distribution of shipments across the different ship m
 ## Dashboard
 
 I created a Tableau dashboard showcasing the sales performance of the Superstore. The dashboard comprises   
-of four charts, including the map showing the profit margin by geography, the bar chart displaying profit margin    
+of four charts, including the map showing the profit margin by state, the bar chart displaying profit margin    
 per category and subcategory, the table of key performance indicators, and the pie chart presenting  
 the distribution of ship modes. To provide a comprehensive overview, I also included two legends and  
 two filters that allow for further analysis, one for subcategories and another for the year of the order date.

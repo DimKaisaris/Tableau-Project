@@ -10,4 +10,6 @@ and shipping method, allowing for easy identification of top performers and oppo
 Created a bar chart to visualize the profit by product category and subcategory. Utilized a hierarchy  
 to group subcategories under respective categories, resulting in a more organized and intuitive representation  
 of data. The chart provides a clear picture of profit distribution across categories and subcategories,  
-highlighting areas of success and potential for optimization.
+highlighting areas of success and potential for improvement.
+
+![c1](Images/c1.png)

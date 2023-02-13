@@ -57,3 +57,8 @@ sales per month based on historical data.
 ![c4](Images/c4.png)
 
 ![c5](Images/c5.png)
+
+
+The final chart effectively showcases the upward trend in sales over time and highlights the recurring   
+patterns present in the data. Upon analysis, it seems that every year September, November  
+and December are the highest revenue months while January and February appear to be the lowest.

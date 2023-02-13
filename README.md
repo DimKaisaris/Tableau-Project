@@ -62,3 +62,11 @@ sales per month based on historical data.
 The final chart effectively showcases the upward trend in sales over time and highlights the recurring   
 patterns present in the data. Upon analysis, it seems that every year September, November  
 and December are the highest revenue months while January and February appear to be the lowest.
+
+## **[Link](https://public.tableau.com/app/profile/dimitris.kaisaris4695/viz/Sales_Workbook1/Dashboard1) for Tableau Public!
+
+I have uploaded my project,  on Tableau public.  
+Although only the dashboard is available for public viewing, I can provide the rest of my work upon request.  
+Feel free to contact me! 
+
+

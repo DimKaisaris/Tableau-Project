@@ -36,4 +36,15 @@ that displays key performance indicators (KPIs) such as Sales, Profit, Quantity,
 Page 6: To get a better understanding of the shipping methods used by the Superstore, I created  
 a pie chart that shows the distribution of shipments across the different ship modes.
 
+## Dashboard
+
+I created a Tableau dashboard showcasing the sales performance of the Superstore. The dashboard comprises   
+of four charts, including the map showing the profit margin by geography, the bar chart displaying sales and profit  
+per category and subcategory, the table of key performance indicators, and the pie chart presenting  
+the distribution of ship modes. To provide a comprehensive overview, I also included two legends and  
+two filters that allow for further analysis, one for subcategories and another for the year of the order date.
+Furthermore, the charts in the dashboard have been designed to work as filters, providing an interactive  
+experience for the viewer and allowing for a deeper understanding of the data.
+
+![dashboard](Images/dashboard.png) 
 
